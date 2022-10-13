@@ -1,2 +1,2 @@
 # SQL_assignment_1
-DS311 SQL assignment
+This is an assignment folder for DS311 SQL assignment
